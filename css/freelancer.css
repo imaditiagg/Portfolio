@@ -6915,14 +6915,18 @@ a.close.disabled {
   vertical-align: text-top !important;
 }
 
+.bg-third{
+   background-color:  #5c8a8a
+
+}
 .bg-primary {
-  background-color: #1abc9c !important;
+  background-color:  #1abc9c !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #148f77 !important;
+  background-color:   #148f77 !important;
 }
 
 .bg-secondary {
